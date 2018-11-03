@@ -1,0 +1,20 @@
+print("1st type")
+print("-------------------------")
+s1 = input("Enter 1st no. : ")
+s2 = input("Enter 2nd no. : ")
+#convert str into int
+no1 = int(s1)
+no2 = int(s2)
+print("Sum = ",(no1 + no2))
+print("-------------------------")
+print("2nd type")
+print("-------------------------")
+no1 = int(input("1st no. : "))
+no2 = int(input("2nd no. : "))
+print("Sum = ",(no1 + no2))
+print("-------------------------")
+print("3rd type")
+print("-------------------------")
+print("Sum = ",(int(input("1st no. : ")) + int(input("2nd no. : "))))
+
+           

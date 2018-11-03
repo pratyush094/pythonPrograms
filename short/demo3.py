@@ -1,0 +1,9 @@
+a = 20
+b = 10
+print("a = ",(a))
+print("b = ",(b))
+print("sum = ",(a+b))
+print("sub = ",(a-b))
+print("mul = ",(a*b))
+print("div = ",(a/b))
+print("mod = ",(a%b))
